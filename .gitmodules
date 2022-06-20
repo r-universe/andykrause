@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "hpiR"]
+	path = hpiR
+	url = https://github.com/andykrause/hpir
+	shallow = true
+	registered = true
